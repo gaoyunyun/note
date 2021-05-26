@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "ad4d2d2244dc988b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e70867b4beb703bf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-05-26.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1278d990f4ea41c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9ecade9596824f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e53adc9587fe985a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3a4786ef40577c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91899da0428ee8da",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1a8c4e9ee4e65e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e45f73faffa8857b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-05-26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd7964779003588d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2021-05-26.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 127
+  },
+  "active": "e70867b4beb703bf",
+  "lastOpenFiles": [
+    "2021-05-26.md",
+    "home.md",
+    "getting-started.md",
+    "inbox.md",
+    "placeholder.md",
+    "readme.md",
+    "todo.md"
+  ]
+}
