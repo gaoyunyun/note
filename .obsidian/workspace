@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e70867b4beb703bf",
+        "id": "70192b38bf02e43a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-26.md",
-            "mode": "preview"
+            "file": "journals/遇事不决量子力学.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "23f662021aba90c3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-26.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-26.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -94,19 +105,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 127
+    "width": 127,
+    "collapsed": true
   },
-  "active": "e70867b4beb703bf",
+  "active": "23f662021aba90c3",
   "lastOpenFiles": [
-    "2021-05-26.md",
+    "conflict-files-obsidian-git.md",
+    "journals/无题.md",
+    "journals/2021_05_27.md",
     "Day Planners/Day Planner-20210526.md",
+    "2021-05-26.md",
     "Day Planners/Day Planner-20210527.md",
     "pages/contents.md",
     "home.md",
     "getting-started.md",
-    "inbox.md",
-    "placeholder.md",
-    "readme.md",
-    "todo.md"
+    "inbox.md"
   ]
 }
