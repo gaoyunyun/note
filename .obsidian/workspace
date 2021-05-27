@@ -12,7 +12,20 @@
             "file": "学习/编程.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "73aaf96002b37e3c"
+      },
+      {
+        "id": "2a3acd51736eec5d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "学习/编程.md",
+            "mode": "preview"
+          }
+        },
+        "group": "73aaf96002b37e3c"
       }
     ],
     "direction": "vertical"
