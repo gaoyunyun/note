@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-26.md",
-            "mode": "preview"
+            "file": "2021-05-27.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-26.md",
+                "file": "2021-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-26.md"
+                "file": "2021-05-27.md"
               }
             }
           }
@@ -98,15 +98,15 @@
   },
   "active": "e70867b4beb703bf",
   "lastOpenFiles": [
+    "2021-05-27.md",
     "2021-05-26.md",
-    "Day Planners/Day Planner-20210526.md",
-    "Day Planners/Day Planner-20210527.md",
-    "pages/contents.md",
-    "home.md",
-    "getting-started.md",
+    "202105271411.md",
     "inbox.md",
-    "placeholder.md",
+    "home.md",
+    "pages/contents.md",
+    "todo.md",
     "readme.md",
-    "todo.md"
+    "Day Planners/Day Planner-20210526.md",
+    "Day Planners/Day Planner-20210527.md"
   ]
 }
