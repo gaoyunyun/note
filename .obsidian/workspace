@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "学习/编程.md",
+            "file": "学习/jwt.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "学习/编程.md",
+            "file": "学习/jwt.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/编程.md",
+                "file": "学习/jwt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/编程.md"
+                "file": "学习/jwt.md"
               }
             }
           }
@@ -112,6 +112,7 @@
   },
   "active": "70192b38bf02e43a",
   "lastOpenFiles": [
+    "学习/jwt.md",
     "学习/编程.md",
     "journals/遇事不决量子力学.md",
     "journals/2021_05_27.md",
@@ -120,7 +121,6 @@
     "journals/无题.md",
     "Day Planners/Day Planner-20210526.md",
     "2021-05-26.md",
-    "Day Planners/Day Planner-20210527.md",
-    "pages/contents.md"
+    "Day Planners/Day Planner-20210527.md"
   ]
 }
