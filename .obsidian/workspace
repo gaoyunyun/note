@@ -4,25 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "70192b38bf02e43a",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "73aaf96002b37e3c"
-      },
-      {
         "id": "2a3acd51736eec5d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "学习/jwt.md",
-            "mode": "source"
+            "file": "Day Planners/Day Planner-20210527.md",
+            "mode": "preview"
           }
-        },
-        "group": "73aaf96002b37e3c"
+        }
       }
     ],
     "direction": "vertical"
@@ -78,13 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day Planners/Day Planner-20210527.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -93,28 +84,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Day Planners/Day Planner-20210527.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 127,
-    "collapsed": true
+    "width": 377
   },
-  "active": "70192b38bf02e43a",
+  "active": "2a3acd51736eec5d",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20210527.md",
+    "Day Planners/Day Planner-20210526.md",
     "学习/jwt.md",
+    "journals/遇事不决量子力学.md",
     "Untitled.md",
     "学习/编程.md",
-    "journals/遇事不决量子力学.md",
     "journals/2021_05_27.md",
     "conflict-files-obsidian-git.md",
     "journals/无题.md",
-    "Day Planners/Day Planner-20210526.md",
-    "2021-05-26.md",
-    "Day Planners/Day Planner-20210527.md"
+    "2021-05-26.md"
   ]
 }
