@@ -6,13 +6,28 @@
       {
         "id": "2a3acd51736eec5d",
         "type": "leaf",
+        "dimension": 65.06024096385542,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20210527.md",
+            "file": "journals/艺术来源于生活.md",
+            "mode": "source"
+          }
+        },
+        "group": "7603c7cfc56c6617"
+      },
+      {
+        "id": "6af3e811c526e4a0",
+        "type": "leaf",
+        "dimension": 34.93975903614458,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "journals/艺术来源于生活.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "7603c7cfc56c6617"
       }
     ],
     "direction": "vertical"
@@ -68,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20210527.md",
+                "file": "journals/艺术来源于生活.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20210527.md"
+                "file": "journals/艺术来源于生活.md"
               }
             }
           }
@@ -93,19 +108,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377
+    "width": 377,
+    "collapsed": true
   },
-  "active": "2a3acd51736eec5d",
+  "active": "6af3e811c526e4a0",
   "lastOpenFiles": [
+    "journals/艺术来源于生活.md",
+    "journals/遇事不决量子力学.md",
+    "journals/Untitled.md",
+    "Untitled.md",
+    "pages/contents.md",
+    "学习/jwt.md",
     "Day Planners/Day Planner-20210527.md",
     "Day Planners/Day Planner-20210526.md",
-    "学习/jwt.md",
-    "journals/遇事不决量子力学.md",
-    "Untitled.md",
     "学习/编程.md",
-    "journals/2021_05_27.md",
-    "conflict-files-obsidian-git.md",
-    "journals/无题.md",
-    "2021-05-26.md"
+    "journals/2021_05_27.md"
   ]
 }
