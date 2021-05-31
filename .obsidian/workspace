@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/艺术来源于生活.md",
+            "file": "inbox.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/艺术来源于生活.md",
-            "mode": "preview"
+            "file": "inbox.md",
+            "mode": "source"
           }
         },
         "group": "7603c7cfc56c6617"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/艺术来源于生活.md",
+                "file": "inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/艺术来源于生活.md"
+                "file": "inbox.md"
               }
             }
           }
@@ -111,17 +111,17 @@
     "width": 377,
     "collapsed": true
   },
-  "active": "6af3e811c526e4a0",
+  "active": "2a3acd51736eec5d",
   "lastOpenFiles": [
-    "journals/艺术来源于生活.md",
+    "inbox.md",
+    "home.md",
+    "2021-05-27.md",
+    "2021-05-26.md",
     "journals/遇事不决量子力学.md",
-    "journals/Untitled.md",
-    "Untitled.md",
-    "pages/contents.md",
+    "journals/艺术来源于生活.md",
     "学习/jwt.md",
-    "Day Planners/Day Planner-20210527.md",
-    "Day Planners/Day Planner-20210526.md",
-    "学习/编程.md",
-    "journals/2021_05_27.md"
+    "Day Planners/Day Planner-20210531.md",
+    "Day Planners/Day Planner-20210530.md",
+    "Day Planners/Day Planner-20210527.md"
   ]
 }
