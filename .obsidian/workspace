@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox.md",
+            "file": "Day Planners/Day Planner-20210603.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox.md",
+            "file": "Day Planners/Day Planner-20210603.md",
             "mode": "source"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox.md",
+                "file": "Day Planners/Day Planner-20210603.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox.md"
+                "file": "Day Planners/Day Planner-20210603.md"
               }
             }
           }
@@ -113,6 +113,7 @@
   },
   "active": "2a3acd51736eec5d",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20210603.md",
     "inbox.md",
     "home.md",
     "2021-05-27.md",
@@ -121,7 +122,6 @@
     "journals/艺术来源于生活.md",
     "学习/jwt.md",
     "Day Planners/Day Planner-20210531.md",
-    "Day Planners/Day Planner-20210530.md",
-    "Day Planners/Day Planner-20210527.md"
+    "Day Planners/Day Planner-20210530.md"
   ]
 }
