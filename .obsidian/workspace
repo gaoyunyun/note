@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20210603.md",
+            "file": "游戏/策略.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20210603.md",
+            "file": "游戏/策略.md",
             "mode": "source"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20210603.md",
+                "file": "游戏/策略.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20210603.md"
+                "file": "游戏/策略.md"
               }
             }
           }
@@ -113,6 +113,7 @@
   },
   "active": "2a3acd51736eec5d",
   "lastOpenFiles": [
+    "Untitled.md",
     "Day Planners/Day Planner-20210603.md",
     "inbox.md",
     "home.md",
@@ -121,7 +122,6 @@
     "journals/遇事不决量子力学.md",
     "journals/艺术来源于生活.md",
     "学习/jwt.md",
-    "Day Planners/Day Planner-20210531.md",
-    "Day Planners/Day Planner-20210530.md"
+    "Day Planners/Day Planner-20210531.md"
   ]
 }
