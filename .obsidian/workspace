@@ -16,18 +16,20 @@
                 "file": "游戏/游点意思.md",
                 "mode": "source"
               }
-            }
+            },
+            "group": "829b5a759c86de6b"
           },
           {
-            "id": "973285f3609c0200",
+            "id": "25bc62f8783f6d07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "游戏/游点意思.md",
-                "mode": "source"
+                "mode": "preview"
               }
-            }
+            },
+            "group": "829b5a759c86de6b"
           }
         ],
         "direction": "horizontal"
