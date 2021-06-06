@@ -4,30 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "2a3acd51736eec5d",
-        "type": "leaf",
-        "dimension": 65.06024096385542,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "游戏/策略.md",
-            "mode": "source"
+        "id": "06385a1839d49490",
+        "type": "split",
+        "children": [
+          {
+            "id": "2a3acd51736eec5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏/游点意思.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "973285f3609c0200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏/游点意思.md",
+                "mode": "source"
+              }
+            }
           }
-        },
-        "group": "7603c7cfc56c6617"
-      },
-      {
-        "id": "6af3e811c526e4a0",
-        "type": "leaf",
-        "dimension": 34.93975903614458,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "游戏/策略.md",
-            "mode": "source"
-          }
-        },
-        "group": "7603c7cfc56c6617"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏/策略.md",
+                "file": "游戏/游点意思.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "游戏/策略.md"
+                "file": "游戏/游点意思.md"
               }
             }
           }
@@ -111,8 +114,9 @@
     "width": 377,
     "collapsed": true
   },
-  "active": "6af3e811c526e4a0",
+  "active": "2a3acd51736eec5d",
   "lastOpenFiles": [
+    "游戏/游点意思.md",
     "游戏/策略.md",
     "Untitled.md",
     "Day Planners/Day Planner-20210603.md",
@@ -121,7 +125,6 @@
     "2021-05-27.md",
     "2021-05-26.md",
     "journals/遇事不决量子力学.md",
-    "journals/艺术来源于生活.md",
-    "学习/jwt.md"
+    "journals/艺术来源于生活.md"
   ]
 }
